@@ -1,0 +1,30 @@
+_repo: The-Roman-Traitor-Vol.-2_25096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herbert, Henry William
+    birthdate: 1807
+    deathdate: 1858
+    gutenberg_agent_id: '8846'
+    url: http://www.gutenberg.org/2009/agents/8846
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/f#a35786
+    - http://en.wikipedia.org/wiki/Henry_William_Herbert
+    - http://www.gutenberg.org/browse/authors/d#a35785
+description: ''
+gutenberg_issued: '2008-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Rome -- History -- Republic, 265-30 B.C. -- Fiction'
+title: The Roman Traitor, Vol. 2
+url: http://www.gutenberg.org/ebooks/25096
